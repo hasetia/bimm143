@@ -1,7 +1,8 @@
 #' ---
-#' title: "Class05 Intro to plots"
+#' title: "Class05 Intro to Graphics"
 #' author: "Harpreet Setia"
 #' date: "January 24th, 2019"
+#' output: github_document
 #' ---
 
 # Class 5 R graphics intro
